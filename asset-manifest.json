@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/GreenLightRedLight/static/css/main.ae9555a5.css",
+    "main.js": "/GreenLightRedLight/static/js/main.48b50114.js",
+    "static/js/787.f1ecf7ed.chunk.js": "/GreenLightRedLight/static/js/787.f1ecf7ed.chunk.js",
+    "index.html": "/GreenLightRedLight/index.html",
+    "main.ae9555a5.css.map": "/GreenLightRedLight/static/css/main.ae9555a5.css.map",
+    "main.48b50114.js.map": "/GreenLightRedLight/static/js/main.48b50114.js.map",
+    "787.f1ecf7ed.chunk.js.map": "/GreenLightRedLight/static/js/787.f1ecf7ed.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ae9555a5.css",
+    "static/js/main.48b50114.js"
+  ]
+}
