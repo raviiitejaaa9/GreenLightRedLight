@@ -42,7 +42,6 @@ function GreenLightRedLight () {
     const [color, setColor] = useState(getRandomColor())
     const [gameState , setGameState] = useState(apiConstants.playing)
 
-    console.log(score)
 
     function getRandomColor () {
         const randomNum = Math.ceil(Math.random() * 10);
